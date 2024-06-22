@@ -4,12 +4,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-🔭 I’m currently working on web development.
-📫 Contact me at adityapratapsinghtomer@gmail.com
-🌱 I constantly work on my problem-solving and DSA skills.
-👯 I'm always open to collaborating on exciting projects and hackathons.
-🤔 I’m looking for help with open source contribution.
-
+- 🔭 I’m currently working on web development
+- 🌱 I constantly work on problem-solving and DSA skills.
+- 👯 I’m always open to collaborating on exciting projects and hackathons.
+- 🤔 I’m  looking for help with open source contribution.
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
