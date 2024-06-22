@@ -2,7 +2,7 @@
 <h1 align="center">Hi there👋, I'm Aditya Singh Tomer<img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="80"></h1>
 <!--<h2 align="center">On a journey to discover my true potential!</h2> -->
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">-->
 
 - 🔭 I’m currently working on web development
 - 🌱 I constantly work on problem-solving and DSA skills.
