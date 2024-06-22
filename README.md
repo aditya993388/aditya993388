@@ -1,12 +1,14 @@
 
-<h1 align="center">Hi there👋, I'm Aditya Singh Tomer<img src="https://media.giphy.com/media/Qp8JVw4n37No6spF3s/giphy.gif" width="80"></h1>
+<h1 align="center">Hi there👋, I'm Aditya Singh Tomer<img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="80"></h1>
 <!--<h2 align="center">On a journey to discover my true potential!</h2> -->
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🔭 I’m currently working on **projects using MERN stack.**
-
-- 📫 Contact me on **adityapratapsinghtomer@gmail.com**
+🔭 I’m currently working on web development.
+📫 Contact me at adityapratapsinghtomer@gmail.com
+🌱 I constantly work on my problem-solving and DSA skills.
+👯 I'm always open to collaborating on exciting projects and hackathons.
+🤔 I’m looking for help with open source contribution.
 
 
 <h3 align="left">Connect with me:</h3>
